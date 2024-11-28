@@ -2,7 +2,7 @@
 
 **`Software Engineer (Developer/Athlete/Problem Solver)`**
 
-I'm a spanish developer and I would like to build my own version of the digital world one step at a time. During a project, I carefully plan and design the best solution to solve the problem I have using code. I am also a varsity tennis player with a career high of 16th nationally in singles and 7th in doubles @TuftsUniversity. 
+I'm a spanish developer and I would like to build my own version of the digital world one step at a time. During a project, I carefully plan and design the best solution to solve the problem I have using code. I am also a varsity tennis player with a career high of 16th nationally in singles and 7th in doubles. 2022 National Team RunnerUp - @TuftsUniversity. 
 
 ### 🧰 Languages and Tools
 
