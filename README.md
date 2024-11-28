@@ -4,7 +4,7 @@
 
 I'm a spanish developer and I would like to build my own version of the digital world one step at a time. During a project, I carefully plan and design the best solution to solve the problem I have using code. I am also a varsity tennis player with a career high of 16th nationally in singles and 7th in doubles. 2022 National Team RunnerUp - @TuftsUniversity. 
 
-### 🧰 Languages and Tools
+### Languages and Tools 🧰 
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -19,7 +19,7 @@ I'm a spanish developer and I would like to build my own version of the digital 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-### 📊 Stats
+### Stats 📊 
 
 ![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javigon1&show_icons=true&theme=gruvbox)
 
